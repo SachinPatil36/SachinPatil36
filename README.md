@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SachinPatil36](https://github.com/SachinPatil36)
 
-- 💬 Ask me about **Web Development(Java ,spring ,spring boot ,sql ,spring security,HTML,CSS,JS)ing security**
+- 💬 Ask me about **Web Development(Java ,spring ,spring boot ,sql ,spring security,HTML,CSS,JS)**
 
 - 📫 How to reach me **patilsachin2696@gmail.com**
 
